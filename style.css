@@ -95,6 +95,15 @@
   margin-bottom: 20px;
   padding: 0px 20px;
 }
+.custom-popover{
+  --bs-popover-max-width: 500px;
+  max-height: 600px; 
+  overflow-y: auto;
+}
+.popover-image{
+  max-width: 100%;
+  height: auto;
+}
 .container-5{
   background-image: url("img/background.jpeg");
   background-size: cover;
@@ -127,6 +136,13 @@
 }
 .footer-link:hover{
   transform: translateY(8px);
+}
+.popover-link{
+  text-decoration: none;
+  color: black;
+}
+.custom-total{
+  margin-left: 0%;
 }
 /* .map-container iframe {
   position: absolute;

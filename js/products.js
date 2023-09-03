@@ -56,3 +56,119 @@ export let items = [
         ProductImage:"img/mani.jpg",
     }
 ]
+
+// Our products display
+export let products = [
+    {   
+        ModalId:"modal1",
+        productName:"Banana Cake",
+        productPrice:"500",
+        productDescription:"lorem ipsom doloresss yawa piste giatay",
+        ProductImage:"img/banana.jpg",
+    },
+    {   
+        ModalId:"modal2",
+        productName:"Blueberry Cheesecake",
+        productPrice:"500",
+        productDescription:"lorem ipsom doloresss yawa piste giatay",
+        ProductImage:"img//blueberry-cheesecake.jpg",
+    },
+    {   
+        ModalId:"modal3",
+        productName:"Cake Wako kaybaw",
+        productPrice:"500",
+        productDescription:"lorem ipsom doloresss yawa piste giatay",
+        ProductImage:"img/cake1.jpg",
+    },
+    {   
+        ModalId:"modal4",
+        productName:"Choco Cake",
+        productPrice:"500",
+        productDescription:"lorem ipsom doloresss yawa piste giatay",
+        ProductImage:"img/choco.jpg",
+    },
+    {   
+        ModalId:"modal5",
+        productName:"Sanrival Cake",
+        productPrice:"500",
+        productDescription:"lorem ipsom doloresss yawa piste giatay",
+        ProductImage:"img/sanrival.jpg",
+    },
+    {   
+        ModalId:"modal6",
+        productName:"Ube Cheese Pandesal",
+        productPrice:"500",
+        productDescription:"lorem ipsom doloresss yawa piste giatay",
+        ProductImage:"img/ube-cheese pandisal.jpg",
+    },
+    {
+        ModalId:"modal7",
+        productName:"Yema Cheese Desal",
+        productPrice:"500",
+        productDescription:"lorem ipsom doloresss yawa piste giatay",
+        ProductImage:"img/yema-cheese desal.jpg",
+    },
+    {   
+        ModalId:"modal8",
+        productName:"Mani",
+        productPrice:"500",
+        productDescription:"lorem ipsom doloresss yawa piste giatay",
+        ProductImage:"img/mani.jpg",
+    },
+    {   
+        ModalId:"modal9",
+        productName:"Strawberry Cake",
+        productPrice:"1500",
+        productDescription:"lorem ipsom doloresss yawa piste giatay",
+        ProductImage:"img/strawberrycake.jpg",
+    },
+    {   
+        ModalId:"modal10",
+        productName:"Choco with Sprinkles Cake",
+        productPrice:"1200",
+        productDescription:"lorem ipsom doloresss yawa piste giatay",
+        ProductImage:"img/chocolatespinkles.jpg",
+    },
+    {   
+        ModalId:"modal11",
+        productName:"Grapes Cake",
+        productPrice:"800",
+        productDescription:"lorem ipsom doloresss yawa piste giatay",
+        ProductImage:"img/grapecake.jpg",
+    },
+    {   
+        ModalId:"modal12",
+        productName:"Wedding Cake",
+        productPrice:"1500",
+        productDescription:"lorem ipsom doloresss yawa piste giatay",
+        ProductImage:"img/weddingcake.jpg",
+    },
+    {   
+        ModalId:"modal13",
+        productName:"Wedding Cake v2",
+        productPrice:"2000",
+        productDescription:"lorem ipsom doloresss yawa piste giatay",
+        ProductImage:"img/weddingcake2.jpg",
+    },
+    {   
+        ModalId:"modal14",
+        productName:"Red Velvet",
+        productPrice:"1000",
+        productDescription:"lorem ipsom doloresss yawa piste giatay",
+        ProductImage:"img/redvelvet.jpg",
+    },
+    {   
+        ModalId:"modal15",
+        productName:"Birthday Cake",
+        productPrice:"1100",
+        productDescription:"lorem ipsom doloresss yawa piste giatay",
+        ProductImage:"img/bdaycake.jpg",
+    },
+    {   
+        ModalId:"modal16",
+        productName:"Birthday Cake",
+        productPrice:"1100",
+        productDescription:"lorem ipsom doloresss yawa piste giatay",
+        ProductImage:"img/bdaycake.jpg",
+    }
+];

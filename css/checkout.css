@@ -1,0 +1,90 @@
+.carousel-item img {
+    width: 100%;
+    height: 300px;
+}
+
+.navbarMain {
+    background-color: aqua;
+}
+
+/* #navbarNav{
+    position: relative;
+    left: 24.5%;
+  } */
+.brandName {
+    position: relative;
+    left: 5vw;
+}
+
+.brandPic {
+    /* background-color: blue ; */
+    position: relative;
+    width: 3.5vw;
+    left: 5vw;
+    bottom: 0.9vh;
+}
+
+.accounts {
+    position: relative;
+    left: 15vw;
+}
+
+.cart {
+    position: relative;
+    left: 16vw;
+}
+
+.custom-card {
+    cursor: pointer;
+    border: none;
+}
+
+.custom-card-body {
+    display: none;
+    background-color: rgba(0, 0, 0, 0.7);
+    border-radius: 20px;
+    height: 0;
+    color: #fff;
+    padding: 10px;
+    position: absolute;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    transition: height 0.3s ease-in-out, opacity 0.5s ease-in-out;
+    overflow: hidden;
+}
+
+.custom-card:hover .custom-card-body {
+    display: block;
+    opacity: 1;
+    height: 100%;
+}
+
+.custom-card img {
+    border-radius: 20px;
+}
+
+.custom-popover {
+    --bs-popover-max-width: 500px;
+    max-height: 600px;
+    overflow-y: auto;
+}
+
+.popover-image {
+    max-width: 100%;
+    height: auto;
+}
+
+.footerlink {
+    text-decoration: none;
+    color: #fff;
+    transition: 0.2s;
+}
+
+.footerlink:hover {
+    color: #E5BA73;
+}
+
+.footer-link:hover {
+    transform: translateY(8px);
+}
